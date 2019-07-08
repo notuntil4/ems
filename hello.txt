@@ -1,5 +1,5 @@
 writing first commit data
-
+updated her
 this is my new line
 
 add third line
@@ -18,7 +18,7 @@ Local repo:
 5. git log # commit history
 6. git diff # difference between previous commit and existing file version
 7. git show # give the difference between previous commit and current changes
+<<<<<<< HEAD
 
 Branching
 
-updated
