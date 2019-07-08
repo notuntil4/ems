@@ -3,3 +3,8 @@ writing first commit data
 this is my new line
 
 add third line
+
+1. Git init
+2. git add # to add the file for tracking
+3. git commit # commiting your local repo
+4. git status
